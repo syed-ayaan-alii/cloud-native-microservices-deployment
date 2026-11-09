@@ -187,16 +187,9 @@ The demo is instrumented with OpenTelemetry. Telemetry flows from each service t
 - **Traces** go to Jaeger, to follow a request across services.
 - **Metrics** go to Prometheus and are visualised in Grafana.
 
-> Add notes on any dashboards or alerts you built.
 
-## Screenshots
 
-> Add images to `docs/` and link them here:
-> the running webstore, the Jaeger trace view, a Grafana dashboard, a green GitHub Actions run, and the ArgoCD application in sync.
 
-## What I learned
-
-> Write 3 or 4 honest sentences, for example: what broke and how you debugged it, what surprised you about GitOps, what you would improve next (for example autoscaling, secrets management, or cost control).
 
 ## Credits and license
 
